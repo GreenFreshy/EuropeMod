@@ -1,11 +1,14 @@
 [
-    {
-        "name": "Poland",
+	{
+		"name": "Poland",
 		"leaderName": "Sigismund I",
-		"adjective": ["Polish"],
-		"startBias": ["Hill"],
+		"adjective": [
+			"Polish"
+		],
+		"startBias": [
+			"Hill"
+		],
 		"preferredVictoryType": "Cultural",
-		
 		"startIntroPart1": "Long life and triumph to you, First Consul and Emperor of France, Napoleon I, ruler of the French people. France lies at the heart of Europe. Long has Paris been the world center of culture, arts and letters. Although surrounded by competitors - and often enemies - France has endured as a great nation. Its armies have marched triumphantly into battle from one end of the world to the other, its soldiers and generals among the best in history.",
 		"startIntroPart2": "Napoleon Bonaparte, France yearns for you to rebuild your empire, to lead her once more to glory and greatness, to make France once more the epicenter of culture and refinement. Emperor, will you ride once more against your foes? Can you build a civilization that will stand the test of time?",
 		"declaringWar": "You're disturbing us, prepare for war.",
@@ -15,21 +18,68 @@
 		"neutralHello": "Hello.",
 		"hateHello": "It's you.",
 		"tradeRequest": "France offers you this exceptional proposition.",
-		"outerColor": [224,35,20],
-		"innerColor": [255,255,255],
+		"outerColor": [
+			224,
+			35,
+			20
+		],
+		"innerColor": [
+			255,
+			255,
+			255
+		],
 		"unique": "ANCIEN_REGIME",
-		"cities": ["Kraków","Gdańsk","Poznań","Lwów","Toruń","Królewiec","Gniezno","Bydgoszcz","Warszawa","Sandomierz",
-			"Radom","Sosnowiec","Kalisz","Częstochowa","Gniezno","Płock","Olsztyn","Brześć","Przemyśl","Kamieniec",
-			"Chełmno","Krosno","Sieradz","Trembowla","Halicz","Malbork","Chełm","Bełz","Sieradz","Rawa","Łęczyca",
-			"Nowy Targ","Krasnystaw","Wieliczka","Łomża","Nowy Sącz","Bytom","Chojnice"]
-    },
-    {
+		"cities": [
+			"Kraków",
+			"Gdańsk",
+			"Poznań",
+			"Lwów",
+			"Toruń",
+			"Królewiec",
+			"Gniezno",
+			"Bydgoszcz",
+			"Warszawa",
+			"Sandomierz",
+			"Radom",
+			"Sosnowiec",
+			"Kalisz",
+			"Częstochowa",
+			"Gniezno",
+			"Płock",
+			"Olsztyn",
+			"Brześć",
+			"Przemyśl",
+			"Kamieniec",
+			"Chełmno",
+			"Krosno",
+			"Sieradz",
+			"Trembowla",
+			"Halicz",
+			"Malbork",
+			"Chełm",
+			"Bełz",
+			"Sieradz",
+			"Rawa",
+			"Łęczyca",
+			"Nowy Targ",
+			"Krasnystaw",
+			"Wieliczka",
+			"Łomża",
+			"Nowy Sącz",
+			"Bytom",
+			"Chojnice"
+		]
+	},
+	{
 		"name": "Hungary",
 		"leaderName": "Matthias Corvinus",
-		"adjective": ["Hungarian"],
-		"startBias": ["Grassland"],
+		"adjective": [
+			"Hungarian"
+		],
+		"startBias": [
+			"Grassland"
+		],
 		"preferredVictoryType": "Domination",
-		
 		"startIntroPart1": "Blessings upon you, noble Oda Nobunaga, ruler of Japan, the land of the Rising Sun! May you long walk among its flowering blossoms. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
 		"startIntroPart2": "Legendary damiyo, will you grab the reins of destiny? Will you bring your family and people the honor and glory they deserve? Will you once again pick up the sword and march to triumph? Will you build a civilization that stands the test of time?",
 		"declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
@@ -39,11 +89,50 @@
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you...",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [40,140,60],
-		"innerColor": [160,0,0],
+		"outerColor": [
+			40,
+			140,
+			60
+		],
+		"innerColor": [
+			160,
+			0,
+			0
+		],
 		"unique": "BUSHIDO",
-		"cities": ["Buda","Debrecen","Esztergom","Pécs","Szeged","Pest","Eger","Miskolc","Győr","Székesfehérvár",
-			"Óbuda","Kőszeg","Tatabánya","Kolozsvár","Diósgyőr","Mohács","Tata","Szolnok","Kassa","Kecskemét",
-			"Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Zágráb","Temesvár","Nagyvázsony","Hódmezővásárhely","Sümeg","Baja",]
+		"cities": [
+			"Buda",
+			"Debrecen",
+			"Esztergom",
+			"Pécs",
+			"Szeged",
+			"Pest",
+			"Eger",
+			"Miskolc",
+			"Győr",
+			"Székesfehérvár",
+			"Óbuda",
+			"Kőszeg",
+			"Tatabánya",
+			"Kolozsvár",
+			"Diósgyőr",
+			"Mohács",
+			"Tata",
+			"Szolnok",
+			"Kassa",
+			"Kecskemét",
+			"Szombathely",
+			"Simontornya",
+			"Nyíregyháza",
+			"Sárvár",
+			"Sopron",
+			"Csesznek",
+			"Zágráb",
+			"Temesvár",
+			"Nagyvázsony",
+			"Hódmezővásárhely",
+			"Sümeg",
+			"Baja"
+		]
 	}
 ]
