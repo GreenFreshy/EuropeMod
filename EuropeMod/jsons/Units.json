@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Winged Hussars",
+		"name": "Winged Hussar",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
 		"uniqueTo": "Poland",
@@ -10,13 +10,16 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"hurryCostModifier": 20,
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus"
+		],
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
 	},
 	{
-		"name": "Hussars",
+		"name": "Hussar",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
 		"uniqueTo": "Hungary",
@@ -26,7 +29,12 @@
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%","Bonus vs wounded units 33%" ],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Penalty vs City 33%",
+			"Bonus vs wounded units 33%"
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	}

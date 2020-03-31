@@ -1,32 +1,39 @@
 [
-    {
-        "name": "Sukiennice",
-        "replaces": "Market",
+	{
+		"name": "Sukiennice",
+		"cost": 120,
+		"replaces": "Market",
 		"uniqueTo": "Poland",
 		"gold": 3,
 		"culture": 1,
-		"specialistSlots": {"gold": 1},
+		"specialistSlots": {
+			"gold": 1
+		},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 20},
+		"percentStatBonus": {
+			"gold": 20
+		},
 		"requiredTech": "Currency"
-    },
-    {
-        "name": "Thermal Bath",
-        "replaces": "Stadium",
-        "uniqueTo": "Hungary",
+	},
+	{
+		"name": "Thermal Bath",
+		"cost": 360,
+		"replaces": "Stadium",
+		"uniqueTo": "Hungary",
 		"maintenance": 2,
 		"production": 2,
 		"happiness": 4,
 		"hurryCostModifier": 25,
 		"requiredTech": "Archaeology"
-    },
-    {
-        "name": "Wawel Castle",
+	},
+	{
+		"name": "Wawel Castle",
+		"cost": 500,
 		"culture": 3,
 		"cityHealth": 20,
 		"isWonder": true,
 		"providesFreeBuilding": "Castle",
 		"requiredTech": "Chivalry",
 		"quote": "'Wawel looks into your skies boldly,\nDecorated with a royal castle,\nOh, how beautiful it is in the wonderful night.\nSerious - quiet - absorbed in prayer! - Artur Oppman'"
-    }
+	}
 ]
