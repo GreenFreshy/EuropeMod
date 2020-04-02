@@ -37,5 +37,20 @@
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+	    "name": "Chasseur",
+		"unitType": "Melee",
+		"replaces": "Rifleman",
+		"uniqueTo": "Belgium",
+		"movement": 3,
+		"strength": 32,
+		"cost": 235,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"hurryCostModifier": 20,
+		"attackSound": "shot",
+		"promotions": ["Shock I"],
 	}
 ]

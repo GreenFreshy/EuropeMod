@@ -27,6 +27,20 @@
 		"requiredTech": "Archaeology"
 	},
 	{
+	    "name": "Chocolatiere",
+	    "cost": 300,
+	    "replaces": "Bank",
+		"uniqueTo": "Belgium",
+		"gold": 2,
+		"food": 1,
+		"happiness": 2,
+		"specialistSlots": {"gold": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Chemistry"
+	},
+	{
 		"name": "Wawel Castle",
 		"cost": 500,
 		"culture": 3,

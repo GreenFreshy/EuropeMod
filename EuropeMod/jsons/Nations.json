@@ -17,7 +17,7 @@
 		"introduction": "Welcome to the lands of the Kingdom of Poland.",
 		"neutralHello": "Hello.",
 		"hateHello": "It's you.",
-		"tradeRequest": "TBA",
+		"tradeRequest": "Would you like to trade.",
 		"outerColor": [
 			224,
 			35,
@@ -134,5 +134,26 @@
 			"Sümeg",
 			"Baja"
 		]
-	}
+	},
+	{
+		"name": "Belgium",
+		"leaderName": "Albert I",
+		"adjective": ["Belgian"],
+		
+		"startIntroPart1": "TBA",
+		"startIntroPart2": "TBA",
+		"declaringWar": "I didn't think it would come to this...",
+		"attacked": "Ha, the Belgians will resist until the end!",
+		"defeated": "The Belgians will never be obedient to you.",
+		"introduction": "Hello, I'm Albert, king of the Belgians. I hope our countries will live in peace.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want from us?",
+		"tradeRequest": "What do you think about our offer?",
+		"outerColor": [238,201,9],
+		"innerColor": [0,0,0],
+		"unique": "GLORY_OF_ROME",
+		"cities": ["Brussel","Antwerp","Ghent","Charleroi","Liege","Bruges","Namur","Leuven","Mons","Aalst",
+			"Mechelen","La Louviere","Kortrijk","Hasselt","Ostend","Ixelles","Schaerbeek","Anderlecht",
+            "Sint-Jans-Molenbeek","Mouscron","Genk","Ostend","Tournai","Sint-Niklaas","Woluwe-Saint-Lambert"]
+	},
 ]
