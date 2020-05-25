@@ -52,5 +52,37 @@
 		"hurryCostModifier": 20,
 		"attackSound": "shot",
 		"promotions": ["Shock I"],
-	}
+	},
+	{
+		"name": "Teutonic Knight",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Livonia",
+		"movement": 3,
+		"strength": 24,
+		"cost": 200,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus" ],
+		"promotions": ["Logistics"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Ursar",
+		"unitType": "Melee",
+		"replaces": "Warrior"
+		"uniqueTo": "Romania",
+		"movement": 2,
+		"strength": 10,
+		"cost": 30,
+		"obsoleteTech": "Bronze Working",
+		"upgradesTo": "Spearman",
+		"uniques": ["Can move after attacking" ],
+		"promotions": ["Drill I"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
