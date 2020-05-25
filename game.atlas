@@ -1,0 +1,125 @@
+
+game.png
+size: 500,400
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Poland
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hungary
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Belgium
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Livonia
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Romania
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Winged Hussar
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+UnitIcons/Hussar
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+UnitIcons/Chasseur
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+UnitIcons/Teutonic Knight
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ursar
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sukiennice
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+BuildingIcons/Thermal Bath
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+BuildingIcons/Chocolatiere
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+BuildingIcons/Christian Academy
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Moldovan Workshop
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Wawel Castle
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+BuildingIcons/Palace Mogoşoaia
+  rotate: false
+  xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
