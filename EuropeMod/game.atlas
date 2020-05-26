@@ -1,6 +1,6 @@
 
 game.png
-size: 500,400
+size: 700,400
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -35,6 +35,13 @@ NationIcons/Livonia
 NationIcons/Romania
   rotate: false
   xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Crimea
+  rotate: false
+  xy: 500, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -74,6 +81,13 @@ UnitIcons/Ursar
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Tatar
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Sukiennice
   rotate: false
   xy: 0, 200
@@ -109,6 +123,13 @@ BuildingIcons/Moldovan Workshop
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Highland Mosque
+  rotate: false
+  xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Wawel Castle
   rotate: false
   xy: 0, 300
@@ -119,6 +140,13 @@ BuildingIcons/Wawel Castle
 BuildingIcons/Palace Mogoşoaia
   rotate: false
   xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fountain of Tears
+  rotate: false
+  xy: 500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
