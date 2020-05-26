@@ -85,4 +85,20 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Tatar",
+		"unitType": "Ranged",
+		"uniqueTo": "Crimea",
+		"replaces": "Knight",
+		"movement": 4,
+		"strength": 10,
+		"rangedStrength": 20,
+		"cost": 170,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"promotions": ["Cover I"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	}
 ]

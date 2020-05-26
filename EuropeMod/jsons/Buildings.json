@@ -79,5 +79,14 @@
 		"isWonder": true,
 		"providesFreeBuilding": "Monastery",
 		"requiredTech": "Theology"
+	},
+	{
+		"name": "Fountain of Tears",
+		"cost": 400,
+		"culture": 4,
+		"happiness": 1,
+		"isWonder": true,
+		"requiredTech": "Theology",
+		"uniques": ["Provides 2 free workers"]
 	}
 ]
