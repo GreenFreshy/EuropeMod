@@ -1,6 +1,6 @@
 
 game.png
-size: 700,400
+size: 900,500
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -42,6 +42,13 @@ NationIcons/Romania
 NationIcons/Crimea
   rotate: false
   xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bulgaria
+  rotate: false
+  xy: 600, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -88,6 +95,13 @@ UnitIcons/Tatar
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Thracian Brave
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Sukiennice
   rotate: false
   xy: 0, 200
@@ -123,9 +137,23 @@ BuildingIcons/Moldovan Workshop
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Lavra
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Highland Mosque
   rotate: false
   xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/National Park
+  rotate: false
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
