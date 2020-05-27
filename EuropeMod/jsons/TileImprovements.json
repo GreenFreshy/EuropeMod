@@ -2,12 +2,21 @@
 	{
 		"name": "Highland Mosque",
 		"uniqueTo": "Crimea",
-		"terrainsCanBeBuiltOn": ["Hills"],
+		"terrainsCanBeBuiltOn": ["Hill"],
 		"culture": 3,
 		"happiness": 1,
 		"turnsToBuild": 4,
 		"techRequired": "Theology",
 		"improvingTech": "Flight",
 		"improvingTechStats": {"gold": 1}
+	},
+	{
+		"name": "National Park",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"culture": 3,
+		"happiness": 2,
+		"production": -2,
+		"turnsToBuild": 6,
+		"techRequired": "Ecology"
 	},
 ]

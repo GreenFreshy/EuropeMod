@@ -62,6 +62,16 @@
 		"requiredTech": "Metal Casting"
 	},
 	{
+	    "name": "Lavra",
+	    "cost": 200,
+		"uniqueTo": "Bulgaria",
+		"gold": 1,
+		"culture": 2,
+		"happiness": 2,
+		"requiredTech": "Theology",
+		"replaces": "Monastery"
+	},
+	{
 		"name": "Wawel Castle",
 		"cost": 500,
 		"culture": 3,

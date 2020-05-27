@@ -100,5 +100,21 @@
 		"promotions": ["Cover I"],
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
-	}
+	},
+	{
+		"name": "Thracian Brave",
+		"unitType": "Ranged",
+		"uniqueTo": "Bulgaria",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 15
+		"cost": 60,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["Bonus vs Mounted 50%"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
