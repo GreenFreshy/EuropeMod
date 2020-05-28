@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Krushuna Falls",
+		"type": "NaturalWonder",
+		"happiness": 2,
+		"food": 3,
+		"culture": 2,
+		"occursOn": ["Mountain"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Vitosha Mountain",
+		"type": "NaturalWonder",
+		"happiness": 4,
+		"gold": 1,
+		"culture": 3,
+		"occursOn": ["Hill"],
+		"turnsInto": "Mountain",
+		"impassable": false,
+		"rough": true,
+		"unbuildable": true,
+		"weight": 10
+	}
+]
