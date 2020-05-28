@@ -179,3 +179,17 @@ BuildingIcons/Fountain of Tears
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Vitosha Mountain
+  rotate: false
+  xy: 100, 428
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Krushuna Falls
+  rotate: false
+  xy: 100, 400
+  size: 32, 28
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
