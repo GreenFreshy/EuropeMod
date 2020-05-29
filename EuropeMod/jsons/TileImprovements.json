@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Highland Mosque",
+		"uniqueTo": "Crimea",
+		"terrainsCanBeBuiltOn": ["Hills"],
+		"culture": 3,
+		"happiness": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Theology",
+		"improvingTech": "Flight",
+		"improvingTechStats": {"gold": 1}
+	},
+]

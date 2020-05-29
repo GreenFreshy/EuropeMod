@@ -41,6 +41,27 @@
 		"requiredTech": "Chemistry"
 	},
 	{
+	    "name": "Christian Academy",
+	    "cost": 250,
+		"uniqueTo": "Livonia",
+		"science": 1,
+		"culture": 2,
+		"requiredTech": "Theology",
+		"replaces": "Monastery"
+	},
+	{
+		"name": "Moldovan Workshop",
+		"uniqueTo": "Romania",
+		"replaces": "Workshop",
+		"maintenance": 1,
+		"production": 3,
+		"happiness": 1,
+		"specialistSlots": {"production": 1},
+		"cost": 180,
+		"percentStatBonus": {"production": 5},
+		"requiredTech": "Metal Casting"
+	},
+	{
 		"name": "Wawel Castle",
 		"cost": 500,
 		"culture": 3,
@@ -49,5 +70,23 @@
 		"providesFreeBuilding": "Castle",
 		"requiredTech": "Chivalry",
 		"quote": "'Wawel looks into your skies boldly,\nDecorated with a royal castle,\nOh, how beautiful it is in the wonderful night.\nSerious - quiet - absorbed in prayer! - Artur Oppman'"
+	},
+	{
+		"name": "Palace Mogoşoaia",
+		"cost": 500,
+		"culture": 2,
+		"happiness": 2,
+		"isWonder": true,
+		"providesFreeBuilding": "Monastery",
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Fountain of Tears",
+		"cost": 400,
+		"culture": 4,
+		"happiness": 1,
+		"isWonder": true,
+		"requiredTech": "Theology",
+		"uniques": ["Provides 2 free workers"]
 	}
 ]
