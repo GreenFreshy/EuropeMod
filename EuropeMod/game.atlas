@@ -53,6 +53,13 @@ NationIcons/Bulgaria
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Serbia
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Winged Hussar
   rotate: false
   xy: 0, 100
@@ -98,6 +105,13 @@ UnitIcons/Tatar
 UnitIcons/Thracian Brave
   rotate: false
   xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Partisan
+  rotate: false
+  xy: 700, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -151,6 +165,13 @@ ImprovementIcons/Highland Mosque
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Pekara
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/National Park
   rotate: false
   xy: 0, 400
@@ -175,6 +196,13 @@ BuildingIcons/Palace Mogoşoaia
 BuildingIcons/Fountain of Tears
   rotate: false
   xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Niš Fortress
+  rotate: false
+  xy: 700, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
