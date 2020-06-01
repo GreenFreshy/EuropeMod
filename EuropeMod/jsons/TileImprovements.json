@@ -11,6 +11,18 @@
 		"improvingTechStats": {"gold": 1}
 	},
 	{
+		"name": "Pekara",
+		"uniqueTo": "Serbia",
+		"replaces": "Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"improvingTech": "Fertilizer",
+		"improvingTechStats": {"food": 1}
+	},
+	{
 		"name": "National Park",
 		"terrainsCanBeBuiltOn": ["Forest"],
 		"culture": 3,

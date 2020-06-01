@@ -98,5 +98,15 @@
 		"isWonder": true,
 		"requiredTech": "Theology",
 		"uniques": ["Provides 2 free workers"]
+	},
+	{
+		"name": "Niš Fortress",
+		"cost": 600,
+		"culture": 3,
+		"gold": 1,
+		"isWonder": true,
+		"requiredTech": "Military Science",
+		"cityStrength": 20,
+		"cityHealth": 200
 	}
 ]

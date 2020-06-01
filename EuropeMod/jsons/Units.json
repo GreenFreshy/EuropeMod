@@ -73,7 +73,7 @@
 	{
 		"name": "Ursar",
 		"unitType": "Melee",
-		"replaces": "Warrior"
+		"replaces": "Warrior",
 		"uniqueTo": "Romania",
 		"movement": 2,
 		"strength": 10,
@@ -108,13 +108,27 @@
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 10,
-		"rangedStrength": 15
+		"rangedStrength": 15,
 		"cost": 60,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
 		"uniques": ["Bonus vs Mounted 50%"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Partisan",
+		"unitType": "Ranged",
+		"uniqueTo": "Serbia",
+		"replaces": "Machine Gun",
+		"movement": 3,
+		"strength": 50,
+		"rangedStrength": 60,
+		"cost": 320,
+		"promotions": ["March"],
+		"requiredTech": "Ballistics",
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
 	},
 ]
