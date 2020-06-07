@@ -263,14 +263,14 @@
 		"cities": ["Doros"]
 	},
 	{
-		"name": "Slovenia",
+		"name": "Maribor",
 		"adjective": ["Slovenian"],
 		"cityStateType": "Mercantile",
 
-		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Slovenia - not to my people!",
-		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
-		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
-		"outerColor": [240, 30, 20],
+		"declaringWar": "You did something really much wrong. I will fix it. Prepare to die!",
+		"attacked": "Ha! You can't defeat mighty Slovenians.",
+		"defeated": "You defeated our army but you will never defeat glorious Slovenian people.",
+		"outerColor": [0, 0, 0],
 		"innerColor": [21,250,25],
 		"cities": ["Maribor"]
 	},
