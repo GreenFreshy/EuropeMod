@@ -1,6 +1,6 @@
 
 game.png
-size: 700,400
+size: 900,500
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -42,6 +42,20 @@ NationIcons/Romania
 NationIcons/Crimea
   rotate: false
   xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bulgaria
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Serbia
+  rotate: false
+  xy: 700, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -88,6 +102,20 @@ UnitIcons/Tatar
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Thracian Brave
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Partisan
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Sukiennice
   rotate: false
   xy: 0, 200
@@ -123,9 +151,30 @@ BuildingIcons/Moldovan Workshop
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Lavra
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Highland Mosque
   rotate: false
   xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Pekara
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/National Park
+  rotate: false
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -149,5 +198,26 @@ BuildingIcons/Fountain of Tears
   xy: 500, 300
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Niš Fortress
+  rotate: false
+  xy: 700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vitosha Mountain
+  rotate: false
+  xy: 100, 428
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Krushuna Falls
+  rotate: false
+  xy: 100, 400
+  size: 32, 28
+  orig: 32, 30
   offset: 0, 0
   index: -1

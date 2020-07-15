@@ -62,6 +62,16 @@
 		"requiredTech": "Metal Casting"
 	},
 	{
+	    "name": "Lavra",
+	    "cost": 200,
+		"uniqueTo": "Bulgaria",
+		"gold": 1,
+		"culture": 2,
+		"happiness": 2,
+		"requiredTech": "Theology",
+		"replaces": "Monastery"
+	},
+	{
 		"name": "Wawel Castle",
 		"cost": 500,
 		"culture": 3,
@@ -88,5 +98,15 @@
 		"isWonder": true,
 		"requiredTech": "Theology",
 		"uniques": ["Provides 2 free workers"]
+	},
+	{
+		"name": "Niš Fortress",
+		"cost": 600,
+		"culture": 3,
+		"gold": 1,
+		"isWonder": true,
+		"requiredTech": "Military Science",
+		"cityStrength": 20,
+		"cityHealth": 200
 	}
 ]
