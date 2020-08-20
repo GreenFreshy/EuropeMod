@@ -186,7 +186,7 @@ BuildingIcons/Wawel Castle
   orig: 100, 100
   offset: 100, 100
   index: -1
-BuildingIcons/Palace Mogoşoaia
+BuildingIcons/Mogoshoaia Palace
   rotate: false
   xy: 400, 300
   size: 100, 100
@@ -200,7 +200,7 @@ BuildingIcons/Fountain of Tears
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Niš Fortress
+BuildingIcons/Nish Fortress
   rotate: false
   xy: 700, 300
   size: 100, 100
@@ -209,15 +209,15 @@ BuildingIcons/Niš Fortress
   index: -1
 TileSets/FantasyHex/Tiles/Vitosha Mountain
   rotate: false
-  xy: 100, 428
-  size: 32, 30
+  xy: 100, 429
+  size: 32, 31
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Krushuna Falls
   rotate: false
   xy: 100, 400
-  size: 32, 28
+  size: 32, 29
   orig: 32, 30
   offset: 0, 0
   index: -1
