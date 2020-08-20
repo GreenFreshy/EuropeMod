@@ -28,7 +28,8 @@
 			255,
 			255
 		],
-		"unique": "ANCIEN_REGIME",
+		"uniqueName": "Royal Patronage",
+		"uniques": ["[+1 Culture] from all [Science] buildings", "+[50]% Production when constructing [Courthouse]"],
 		"cities": [
 			"Kraków",
 			"Gdańsk",
@@ -98,7 +99,8 @@
 			0,
 			0
 		],
-		"unique": "BUSHIDO",
+		"uniqueName": "Black Legion",
+		"uniques": ["Gain gold for each unit killed","[-2 Happiness] in all cities with a garrison"],
 		"cities": [
 			"Buda",
 			"Debrecen",
@@ -150,7 +152,8 @@
 		"tradeRequest": "What do you think about our offer?",
 		"outerColor": [238,201,9],
 		"innerColor": [0,0,0],
-		"unique": "GLORY_OF_ROME",
+		"uniqueName": "European Union",
+		"uniques": ["[+1 Science] from each Trade Route", "Science gained from research agreements +50%"],
 		"cities": ["Brussel","Antwerp","Ghent","Charleroi","Liege","Bruges","Namur","Leuven","Mons","Aalst",
 			"Mechelen","La Louviere","Kortrijk","Hasselt","Ostend","Ixelles","Schaerbeek","Anderlecht",
             "Sint-Jans-Molenbeek","Mouscron","Genk","Ostend","Tournai","Sint-Niklaas","Woluwe-Saint-Lambert"]
@@ -171,12 +174,14 @@
 		"tradeRequest": "Would Jesus bless this agreement between us?",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,15],
-		"unique": "FUROR_TEUTONICUS",
+		"uniqueName": "Baltic Crusade",
+		"uniques": ["[+2 Culture] in capital", "+[20]% Production when constructing [mounted units]"],
+		//+2 faith from every city conquered from civ with another religion (G&K)
 		"cities": ["Riga","Reval","Tartu","Daugavpils","Liepāja","Jeglava","Narva","Jūrmala","Pärnu","Ventspils","Kohtla-Järve","Rēzekne","Ogre","Valmiera","Jēkabpils"]
 	},
 	{
 		"name": "Romania",
-		"leaderName": "Carol III",
+		"leaderName": "Carol II",
 		"adjective": ["Romanian"],
 		"startBias": ["Hill","Plains"],
 		"startIntroPart1": "TBA",
@@ -190,7 +195,8 @@
 		"tradeRequest": "Do you agree with that?",
 		"outerColor": [180,240,240],
 		"innerColor": [15,0,10],
-		"unique": "GREAT_ANDEAN_ROAD",
+		"uniqueName": "United Principalities",
+		"uniques": ["+[5]% Production when constructing [melee units]", "+2 happiness for every city connected to capital"],
 		"cities": ["Bucharest", "Cluj-Napoca", "Timişoara", "Iaşi", ",Constanţa", "Craiova", "Braşov", "Galaţi", "Ploieşti", "Oradea", "Brăila", "Arad", "Piteşti", "Sibiu", "Bacău", "Târgu Mureş", "Baia Mare", "Buzău", "Botoşani", "Satu Mare", "Râmnicu", "Vâlcea", "Drobeta-Turnu Severin", "Suceava", "Piatra Neamţ"]
 	},
 	{
@@ -209,7 +215,8 @@
 		"tradeRequest": "Do you want this?",
 		"outerColor": [255,240,255],
 		"innerColor": [200,210,255],
-		"unique": "MONGOL_TERROR",
+		"uniqueName": "Jäsir",
+		"uniques": ["Gain gold for each unit killed", "[+1 Culture] in all cities with a garrison"],
 		"cities": ["Bağçasaray","Aqmescit","Kefe","Yalta","Keriç","Canköy","Kezlev","Qapi","Ermeni Bazar","Yañi Qapi","Aluşta","Yedi Quyu","Saq","Sudaq","Içki","Curçi","Seyitler","Baliqlava","Inkerman"]
 	},
 	{
@@ -228,7 +235,8 @@
 		"tradeRequest": "Do you think this deal is good?",
 		"outerColor": [60,110,90],
 		"innerColor": [240,255,0],
-		"unique": "HELLENIC_LEAGUE",
+		"uniqueName": "Shumi Maritsa",
+		"uniques": ["[+2 Production, +1 Happiness] in all cities"],
 		"cities": ["Sofia","Plovdiv","Varna","Burgas","Ruse","Stara Zagora","Pleven","Dobrich","Silven","Shumen","Pernik","Haskovo","Yambol","Pazardzhik","Blagoevgrad","Veliko Tarnovo","Vratsa","Gabrovo","Asenovgrad","Vidin","Kazanlak","Kyustendil","Kardzhali","Montana","Targovishte","Lovech","Silistra","Dupnica","Svishtov"]
 	},
 	{
@@ -245,9 +253,10 @@
 		"neutralHello": "I'm listening.",
 		"hateHello": "Do you think that I don't have another chores?",
 		"tradeRequest": "What is your answer?",
-		"outerColor": [200,20,250],
-		"innerColor": [200,235,0],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [180,170,0],
+		"innerColor": [250,205,0],
+		"uniqueName": "Srpski Spirit",
+		"uniques": ["New military units start with [15] Experience", "[+1 Production] per [4] population in all cities"],
 		"cities": ["Belgrade","Novi Sad","Niš","Kragujevac","Subotica","Leskovac","Zrenjanin","Pančevo","Čačak","Kruševac","Kraljevo","Novi Pazar","Smederevo","Užice","Valjevo","Vranje","Šabac","Sombor","Požarevac","Pirot","Zaječar","Bor","Kikinda","Sremska Mitrovica","Jagodina","Vršac"]
 	},
 	{

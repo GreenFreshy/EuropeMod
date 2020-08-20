@@ -82,7 +82,7 @@
 		"quote": "'Wawel looks into your skies boldly,\nDecorated with a royal castle,\nOh, how beautiful it is in the wonderful night.\nSerious - quiet - absorbed in prayer! - Artur Oppman'"
 	},
 	{
-		"name": "Palace Mogoşoaia",
+		"name": "Mogoshoaia Palace",
 		"cost": 500,
 		"culture": 2,
 		"happiness": 2,
@@ -100,7 +100,7 @@
 		"uniques": ["Provides 2 free workers"]
 	},
 	{
-		"name": "Niš Fortress",
+		"name": "Nish Fortress",
 		"cost": 600,
 		"culture": 3,
 		"gold": 1,
